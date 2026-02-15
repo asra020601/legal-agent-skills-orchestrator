@@ -1,4 +1,5 @@
-# This agent is designed using a "Tool-as-a-Skill" architecture. By leveraging LangChain skills documentation, the agent can dynamically load instructions (skills) and documents depending on the user's intent.
+### This agent is designed using a "Tool-as-a-Skill" architecture. By leveraging LangChain skills documentation, the agent can dynamically load instructions (skills) and documents depending on the user's intent.
+
 # Install dependencies
 ```
 pip install -r requirements.txt
